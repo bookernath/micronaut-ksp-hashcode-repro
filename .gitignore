@@ -1,0 +1,6 @@
+.gradle/
+build/
+.kotlin/
+patched/
+src/main/kotlin/example/
+results/
